@@ -1,6 +1,6 @@
 ﻿# pet_fastapi_project
  
-Создание репозитория
+<p1>Создание репозитория</p>
 
 git init
 git remote add origin git@github.com:<никнейм>/<названиеРепозитория>.git
